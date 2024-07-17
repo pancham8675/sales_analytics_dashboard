@@ -44,7 +44,7 @@ The Power BI dashboard includes the following visualizations:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/atliq-hardware-sales-analytics.git
+   git clone https://github.com/pancham875/sales_analytics_dashboard.git
 2. **Open the Power BI file**:
 Open the .pbix file in Power BI Desktop to explore the dashboard.
 
